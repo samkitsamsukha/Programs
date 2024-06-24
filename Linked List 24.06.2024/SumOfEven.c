@@ -1,4 +1,4 @@
-// Title: Program in C to create a Singly Linked List and print it
+// Title: Program in C to compute sum of even elements only in Linked List
 // Author: Samkit Samsukha
 // Date: 24.06.2024
 
